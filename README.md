@@ -5,3 +5,8 @@ The dataset contains a record of each reported wildlife strike of a military, co
 Link to the dataset : https://www.kaggle.com/faa/wildlife-strikes
 
 The code is done in Python 3 environment using the Anaconda Navigator.
+# Objective 
+
+1.	What bird species has caused the most damage to airplanes?
+2.	Which part of the airplane is most prone to damage in wildlife strikes?
+
